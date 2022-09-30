@@ -1,0 +1,14 @@
+{
+  "name": "ezform",
+  "version": "0.1.0",
+  "description": "Wipe your tears, forms are EZ",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "lodash.get": "4.4.2",
+    "lodash.set": "4.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yup": "0.32.11"
+  }
+}
